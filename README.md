@@ -2,7 +2,7 @@
 
 ## Overview
 
-Trade Hub is an online marketplace built using the Django web framework. It allows users to buy and sell items using a secure and user-friendly interface.
+Trade Hub is an online marketplace built using the Django web framework. It allows users to buy and sell items using a secure and user-friendly interface. [Watch the video](https://youtu.be/qPswfarsK6w)
 
 ## Features
 
